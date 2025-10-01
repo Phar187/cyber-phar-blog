@@ -3,7 +3,7 @@ layout: default
 title: "Projetos"
 ---
 
-# Projetos
+# Projetoss
 
 <ul>
   <li><a href="{{ '/projetos/estudo-deauth-wifi.html' | relative_url }}">Estudo: Deauthentication (Deauth)</a></li>
